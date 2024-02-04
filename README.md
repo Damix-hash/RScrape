@@ -2,6 +2,10 @@
 
 This program allows you to scrape ROBLOX accounts from mixed logs.
 
+## How To Use It:
+
+Place your .TXT with mixed logs and follow instructions provided in the program.
+
 ## Setup
 
 To run this project, install [Python](https://www.python.org/) and install requirements.txt:
